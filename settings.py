@@ -1,5 +1,5 @@
-PROVIDER = "https://images.mangafreak.net/mangas/"
-LOCAL_PATH = "C:\\Users\\{username}\\Downloads\\Manga\\"
+PROVIDER = "https://ww1.mangafreak.me/Read1_"
+SAVE_PATH = "/Users/johnbrand/Documents/Manga"
 INITAL_PAGE = 1
 SUCCESS_MSG = "The Chapter has been successfully downloaded"
 DOWNLOADING_MSG = "Currently downloading page #"
